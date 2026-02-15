@@ -4,7 +4,7 @@
 
 I build analytics systems that turn complex data into clear operational and financial insight. My background spans healthcare, finance, telecom, and consumer services, with a focus on  performance reporting, revenue cycle and decision support.
 
-* **Core Stack:** AWS Quicksight | Power BI | DAX | Excel | SQL | Python 
+* **Core Stack:** AWS Quicksight | Power BI | DAX | Excel | SQL | Python | NLP / Conversation Intelligence
 * **Based in:** Chandler, AZ
 
 ---

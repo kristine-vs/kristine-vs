@@ -15,5 +15,4 @@ I build analytics systems that turn complex data into clear operational and fina
 ---
 
 ### Ongoing Projects
-* **Ticket Data & Legal Risk Detection:** Text analytics dashboard for identifying compliance risks and legal triggers in support data..
-* **Telco KPI Performance Framework:** Operational dashboard tracking network performance, service quality, and churn drivers.
+* **Contact Center Risk & Governance Analytics:** This project simulates and analyzes legal, compliance, and escalation risk in a financial services contact center.

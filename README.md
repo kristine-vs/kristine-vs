@@ -1,6 +1,6 @@
 # Hi, I’m Kristine  
 
-**Data & Operations Analyst | 8+ Years in Healthcare, Telecom & Enterprise Environments**
+**Data & Operations Analyst | 8+ Years in Healthcare & Enterprise Environments**
 
 I design governed analytics systems that transform messy operational data into clear, decision-ready insight.  
 
@@ -11,9 +11,10 @@ My work focuses on revenue integrity, compliance visibility, and process simplif
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-### Contact Center Legal Risk & Escalation Governance  
+### [Contact Center Legal Risk & Escalation Governance](https://github.com/kristine-vs/contact-center-risk-governance)
+
 A forensic compliance framework built to surface regulatory risk hidden beneath traditional productivity metrics.
 
 **The Problem:** Metrics like AHT and productivity scores can mask legal exposure and escalation failures in regulated environments.
@@ -21,17 +22,18 @@ A forensic compliance framework built to surface regulatory risk hidden beneath 
 **Key Contributions:**
 - Engineered a governed DAX framework to resolve denominator inconsistencies across performance layers  
 - Identified ~437.5 hours of senior specialist labor misallocation per reporting period  
-- Discovered a “Tenure Paradox” - veteran agents, not new hires, drove 100% of missed digital legal escalations
+- Discovered a “Tenure Paradox” - veteran agents, not new hires, drove 100% of missed digital legal chat escalations  
 
 ---
 
-### Healthcare Revenue Integrity & Risk Intelligence  
+### [Healthcare Revenue Integrity & Risk Intelligence](https://github.com/kristine-vs/healthcare-revenue-integrity-dashboard)
+
 Executive-level analysis of a **$77.8M billing portfolio** to identify revenue leakage and clinical risk concentration.
 
 **Key Contributions:**
 - Modeled a full RCM waterfall (Billed → Allowed → Paid) to isolate payer realization gaps  
 - Quantified risk-adjusted revenue opportunities across complex payer landscapes  
-- Designed a governed star schema to ensure financial logic transparency and audit readiness
+- Designed a governed star schema to ensure financial logic transparency and audit readiness  
 
 ---
 
@@ -48,6 +50,6 @@ Areas of focus:
 
 ### Let’s Connect
 
-If you’re navigating messy systems, regulatory complexity, or data environments that don’t quite agree with themselves, we should talk.
+If you’re navigating messy systems, regulatory complexity, or data environments that don’t quite agree with themselves — we should talk.
 
 [LinkedIn](https://www.linkedin.com/in/kristinevsoliman)

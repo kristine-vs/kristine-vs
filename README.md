@@ -50,6 +50,6 @@ Areas of focus:
 
 ### Let’s Connect
 
-If you’re navigating messy systems, regulatory complexity, or data environments that don’t quite agree with themselves — we should talk.
+If you’re navigating messy systems, regulatory complexity, or data environments that don’t quite agree with themselves, we should talk.
 
 [LinkedIn](https://www.linkedin.com/in/kristinevsoliman)

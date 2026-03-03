@@ -17,8 +17,6 @@ My work focuses on revenue integrity, compliance visibility, and process simplif
 
 A forensic compliance framework built to surface regulatory risk hidden beneath traditional productivity metrics.
 
-**The Problem:** Metrics like AHT and productivity scores can mask legal exposure and escalation failures in regulated environments.
-
 **Key Contributions:**
 - Engineered a governed DAX framework to resolve denominator inconsistencies across performance layers  
 - Identified ~437.5 hours of senior specialist labor misallocation per reporting period  

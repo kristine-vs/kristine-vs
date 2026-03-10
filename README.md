@@ -1,6 +1,6 @@
 # Hi, I’m Kristine  
 
-**Data & Operations Analyst | 8+ Years in Healthcare & Enterprise Environments**
+**Data & Operations Analyst | 8+ Years in Healthcare, Telecom & Enterprise Environments**
 
 I design governed analytics systems that transform messy operational data into clear, decision-ready insight.  
 

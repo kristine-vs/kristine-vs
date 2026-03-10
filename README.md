@@ -2,9 +2,11 @@
 
 **Data & Operations Analyst | 8+ Years in Healthcare, Telecom & Enterprise Environments**
 
-I design governed analytics systems that transform messy operational data into clear, decision-ready insight.  
+I work at the intersection of data, operations, and customer experience. My focus is turning messy operational and interaction data into structured insights that help organizations understand what’s actually happening inside their systems.
 
-My work focuses on revenue integrity, compliance visibility, and process simplification - helping leadership move from reactive firefighting to structured, measurable execution.
+Across healthcare and telecommunications environments, I’ve built reporting frameworks, analyzed conversational and operational signals, and helped teams move from reactive troubleshooting to more structured, data-informed decision making.
+
+My work often involves identifying hidden patterns in complex environments, whether that’s operational inefficiencies, customer journey friction, compliance risks, or performance drivers within large-scale service operations.
 
 * **Core Stack:** SQL | Python (Pandas/NumPy) | AWS QuickSight | Power BI (Advanced DAX) | NLP & Conversation Intelligence | Excel  
 * **Based in:** Chandler, AZ
